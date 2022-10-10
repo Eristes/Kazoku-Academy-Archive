@@ -1,14 +1,25 @@
 * {
 		background-color: skyblue;
-	}
+	} 
 	h1 {
 	text-align: center;
 	color: #0000ff;
+} 
+	p {
+		text-align: center;
+		font-weight: 600;
+		font-size: 20px;
+		color: #5454ff;
+	}
+	h2 {
+		color: #5454ff;
+		text-align: center;
 	}
 	div {
 	color: #5454ff;
 	text-align: center;
 	font-weight: bold;
+	font-size: 150%;
 }
 	.div2 {
 	margin-left: 150px;
