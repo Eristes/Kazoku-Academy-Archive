@@ -1,0 +1,25 @@
+* {
+		background-color: #FFB6C1;
+	}
+
+	h1 {
+	text-align: center;
+	color: blueviolet;
+	} 
+
+	h2 {
+		text-align: center;
+		color: deeppink;
+	}
+
+	div{
+		color: deeppink;
+		text-align: center;
+		font-size: 150%;
+	}
+	.div2 {
+	margin-left: 150px;
+	text-align: left;
+	font-weight: 600;
+	font-size: 20px;
+}
