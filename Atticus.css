@@ -1,0 +1,14 @@
+* {
+		background-color: skyblue;
+		font-size: 20px;
+	}
+	h1 {
+	text-align: center;
+	color: #0000ff;
+	}
+	div {
+	color: #5454ff;
+	text-align: center;
+	font-weight: bold;
+	font-size: 150%;
+}
