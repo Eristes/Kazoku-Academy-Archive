@@ -27,6 +27,7 @@
 	font-weight: 600;
 	font-size: 20px;
 }
+/** **/
 .dropbtn {
   background-color: #5ab1ff;
   color: #2424ff;
@@ -52,7 +53,7 @@
   background-color: #2424ff;
   min-width: 230px;
   overflow: auto;
-  border: 1px solid #ddd;
+  border: 1px solid #000;
   z-index: 1;
   padding: none;
 }
@@ -64,6 +65,6 @@
   display: block;
 }
 
-.dropdown a:hover {background-color: #ddd;}
+.dropdown a:hover {background-color: #000;}
 
 .show {display: block;}
