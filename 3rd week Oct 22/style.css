@@ -1,0 +1,42 @@
+* {
+		background-color: #264642;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	h1 {
+		text-align: center;
+		color: #6646cf;
+} 
+	h2 {
+		text-align: center;
+		color: orangered;
+	}
+	p {
+		Font-size: 20px;
+		text-align: center;
+	}
+	div {
+		text-align: center;
+		font-weight: bold;
+		font-size: 150%;
+		color: #deb887;
+}
+	span {
+	text-align: center;
+	font-weight: bold;
+	font-size: 100%;
+}
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
