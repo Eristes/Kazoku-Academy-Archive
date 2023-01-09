@@ -40,6 +40,43 @@ function myFunction13() {
 function myFunction14() {
   document.getElementById("myDropdown14").classList.toggle("show");
 }
+function myFunction15() {
+  document.getElementById("myDropdown15").classList.toggle("show");
+}
+function myFunction16() {
+  document.getElementById("myDropdown16").classList.toggle("show");
+}
+function myFunction17() {
+  document.getElementById("myDropdown17").classList.toggle("show");
+}
+function myFunction18() {
+  document.getElementById("myDropdown18").classList.toggle("show");
+}
+function myFunction19() {
+  document.getElementById("myDropdown19").classList.toggle("show");
+}
+function myFunction20() {
+  document.getElementById("myDropdown20").classList.toggle("show");
+}
+function myFunction21() {
+  document.getElementById("myDropdown21").classList.toggle("show");
+}
+function myFunction22() {
+  document.getElementById("myDropdown22").classList.toggle("show");
+}
+function myFunction23() {
+  document.getElementById("myDropdown23").classList.toggle("show");
+}
+function myFunction24() {
+  document.getElementById("myDropdown24").classList.toggle("show");
+}
+function myFunction25() {
+  document.getElementById("myDropdown25").classList.toggle("show");
+}
+function myFunction26() {
+  document.getElementById("myDropdown26").classList.toggle("show");
+}
+
 
 // Close the dropdown menu if the user clicks outside of it
 window.onclick = function(event) {
